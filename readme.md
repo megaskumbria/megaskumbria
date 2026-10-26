@@ -77,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" style="margin: 10px;" />
   </a>
 </p>
-
+https://ru-sub.whit3.net/sub/vnQvyVXEMb9ZLpG7
 <!-- <h3 align="left">🧠 Currently learning:</h3>
 <p align="left">
   <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
